@@ -1,0 +1,59 @@
+/**
+    Source Roboto Slab
+*/
+@font-face {
+    font-family: 'Roboto Slab';
+    font-weight: normal; /* Normal or 400 */
+    font-style: normal;
+    font-stretch: normal;
+    font-display: swap; /* IE Edge, FF, Chrome Safari, iOS*/;
+    src: local('Roboto Slab'),
+        url('/assets/font/Roboto_Slab/RobotoSlab-Regular.ttf.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Roboto Slab Bold';
+    font-style: normal;
+    font-stretch: normal;
+    font-display: swap; /* IE Edge, FF, Chrome Safari, iOS*/;
+    src: local('Roboto Slab Bold'),
+        url('/assets/font/Roboto_Slab/RobotoSlab-Bold.ttf.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Solway';
+    font-weight: normal; /* Normal or 400 */
+    font-style: normal;
+    font-stretch: normal;
+    font-display: swap; /* IE Edge, FF, Chrome Safari, iOS*/;
+    src: local('Solway'),
+        url('/assets/font/Solway/Solway-Regular.ttf.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Solway Bold';
+    font-style: normal;
+    font-stretch: normal;
+    font-display: swap; /* IE Edge, FF, Chrome Safari, iOS*/;
+    src: local('Solway Bold'),
+        url('/assets/font/Solway/Solway-Bold.ttf.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Palanquin';
+    font-weight: normal; /* Normal or 400 */
+    font-style: normal;
+    font-stretch: normal;
+    font-display: swap; /* IE Edge, FF, Chrome Safari, iOS*/;
+    src: local('Palanquin'),
+        url('/assets/font/Palanquin/Palanquin-Regular.ttf.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Palanquin Bold';
+    font-style: normal;
+    font-stretch: normal;
+    font-display: swap; /* IE Edge, FF, Chrome Safari, iOS*/;
+    src: local('Palanquin Bold'),
+        url('/assets/font/Palanquin/Palanquin-Bold.ttf.woff2') format('woff2');
+}
